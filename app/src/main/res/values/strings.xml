@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RedoAssignment7</string>
+    <string name="welcome_message">Welcome to North Central Bank!</string>
+    <string name="login_message">Please enter your username and password:</string>
+    <string name="login_button">Login</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="savings_balance">Savings Balance:</string>
+    <string name="checking_balance">Checking Balance:</string>
+    <string name="current_balance">Current Balance:</string>
+    <string name="checking_switch">Checking</string>
+    <string name="savings_switch">Savings</string>
+    <string name="withdraw_label">Withdrawal Amount:</string>
+    <string name="money_place">$</string>
+    <string name="withdraw_button">Withdraw</string>
+    <string name="deposit_label">Deposit Amount:</string>
+    <string name="deposit_button">Deposit</string>
+    <string name="transfer_button">Transfer</string>
+    <string name="transfer_label">Transfer Amount:</string>
+</resources>

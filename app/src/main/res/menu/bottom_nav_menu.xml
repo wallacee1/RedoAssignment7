@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Accounts"
+          android:icon="@drawable/home_button"
+          android:id="@+id/accounts"/>
+    <item android:title="Transfer"
+          android:icon="@drawable/transfer_button"
+          android:id="@+id/transfer"/>
+    <item android:title="Deposit"
+          android:icon="@drawable/deposit_button"
+          android:id="@+id/deposit"/>
+    <item android:title="Withdraw"
+          android:icon="@drawable/withdraw_button"
+          android:id="@+id/withdraw"/>
+</menu>
